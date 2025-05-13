@@ -1,0 +1,225 @@
+HCG6541.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.9
+L_Areola
+bounds:2,2726,165,142
+L_arm
+bounds:3249,803,843,2110
+offsets:123,0,966,2110
+rotate:180
+L_chest
+bounds:2787,2521,484,608
+offsets:0,12,484,620
+L_eye - 3
+bounds:131,2787,145,105
+offsets:5,0,170,105
+L_eye_white - 0 ~ - 6 x3
+bounds:858,3781,133,81
+offsets:4,0,137,81
+L_eyeball - 0 ~ - 6 x3
+bounds:276,4012,95,80
+offsets:2,0,98,80
+L_eyeball_light - 0 ~ - 6 x3
+bounds:70,4075,19,17
+L_eyeblow - 6
+bounds:47,2945,115,74
+offsets:24,0,139,74
+L_eyebrow - 0 - 1 - 3 - 4 - 5
+bounds:2,3535,113,90
+L_eyebrow - 2
+bounds:355,3323,101,107
+offsets:0,0,102,107
+L_eyelid_dw - 0 - 2 - 5
+bounds:613,3743,90,32
+offsets:25,15,115,48
+L_eyelid_dw - 1
+bounds:1101,4059,96,33
+offsets:19,24,115,138
+L_eyelid_dw - 6
+bounds:133,3718,94,31
+L_eyelid_dw_tear - 4
+bounds:770,3865,85,23
+L_eyelid_up - 0 - 1 - 2 - 5
+bounds:1716,3358,177,91
+offsets:0,0,177,110
+L_eyelid_up - 6
+bounds:1392,4005,176,87
+offsets:0,0,176,93
+L_eyelid_up2 - 0 ~ - 6 x3
+bounds:843,4071,118,21
+offsets:1,1,119,22
+L_leg
+bounds:2,1132,738,1199
+L_nipple
+bounds:2,3811,59,56
+offsets:0,3,59,59
+Penis
+bounds:736,1800,468,755
+rotate:90
+R_Areola
+bounds:678,3722,195,141
+R_arm
+bounds:2926,1327,821,2531
+rotate:180
+R_chest
+bounds:235,471,557,803
+R_eye - 3
+bounds:1408,3876,235,136
+offsets:0,7,235,143
+R_eye_tear - 3
+bounds:91,4067,55,25
+R_eye_white - 0 ~ - 6 x3
+bounds:2,3603,162,114
+R_eyeball - 0 ~ - 6 x3
+bounds:245,3107,105,104
+R_eyeball_light - 0 ~ - 6 x3
+bounds:83,3975,21,19
+R_eyeblow - 6
+bounds:1232,3831,245,68
+offsets:0,16,261,85
+R_eyebrow - 0 - 1 - 3 - 4 - 5
+bounds:900,3746,272,86
+offsets:5,28,303,132
+R_eyebrow - 2
+bounds:1735,3450,287,64
+offsets:0,20,307,84
+R_eyelid_dw - 0 - 2 - 5
+bounds:157,3054,116,55
+offsets:7,12,123,68
+R_eyelid_dw - 1
+bounds:57,3814,104,49
+offsets:15,21,235,173
+R_eyelid_dw - 6
+bounds:178,3884,103,44
+offsets:4,0,109,44
+R_eyelid_dw_tear - 4
+bounds:555,3615,99,44
+offsets:0,0,99,45
+R_eyelid_up - 0 - 1 - 2 - 5
+bounds:1600,3140,224,153
+offsets:14,0,324,157
+R_eyelid_up - 6
+bounds:99,2203,210,142
+offsets:0,0,219,142
+R_eyelid_up2 - 0 - 1 - 2 - 5
+bounds:1410,3851,142,71
+offsets:0,5,142,76
+R_leg
+bounds:449,1202,1401,2715
+rotate:90
+R_nipple
+bounds:2,3978,61,60
+Semen_Penis
+bounds:2,2966,247,327
+offsets:22,0,273,409
+blush - 0 ~ - 6
+bounds:3146,475,581,369
+offsets:35,48,661,419
+body_1
+bounds:2129,967,1101,864
+rotate:270
+body_2
+bounds:1523,2467,1535,1376
+offsets:0,299,1535,1675
+hair_1
+bounds:771,543,354,628
+hair_10
+bounds:2,2197,2212,1895
+hair_2
+bounds:2219,515,426,878
+rotate:90
+hair_3
+bounds:800,341,524,618
+rotate:90
+hair_4
+bounds:2669,3583,524,509
+offsets:17,0,541,509
+hair_5
+bounds:437,1723,398,288
+hair_6
+bounds:702,3847,716,245
+hair_7
+bounds:2,2869,328,237
+offsets:0,14,328,251
+hair_8
+bounds:1490,2108,358,801
+offsets:0,11,358,812
+rotate:90
+hair_9
+bounds:2,2602,149,159
+head
+bounds:1174,466,930,1043
+offsets:97,0,1027,1043
+rotate:270
+man_hand
+bounds:2,3292,713,800
+offsets:0,0,713,801
+rotate:180
+mouth - 1
+bounds:699,3855,135,91
+offsets:0,14,342,323
+mouth - 2
+bounds:904,3953,138,92
+offsets:0,0,143,92
+mouth - 3
+bounds:761,3992,149,100
+offsets:0,3,149,103
+mouth - 5
+bounds:586,3657,165,93
+offsets:1,0,166,93
+mouth - 6
+bounds:72,2306,108,49
+offsets:0,0,108,51
+mouth_IN - 0
+bounds:1012,4014,124,50
+offsets:0,4,129,54
+mouth_IN - 4
+bounds:2,3864,187,110
+mouth_UP - 0
+bounds:950,4041,138,51
+mouth_UP - 4
+bounds:1691,3295,187,98
+mouth_saliva - 4
+bounds:2,3278,52,77
+mouth_sweat - 5
+bounds:224,3215,55,76
+neck
+bounds:3728,493,344,453
+rosette_1
+bounds:3193,3673,604,419
+offsets:1756,2921,4829,4202
+rosette_2
+bounds:2,696,108,469
+offsets:1,0,109,469
+rosette_3
+bounds:2,1778,179,579
+offsets:0,0,191,579
+rosette_4
+bounds:841,2152,353,151
+rosette_5
+bounds:3099,3229,699,352
+offsets:15,0,714,374
+rotate:90
+rosette_6
+bounds:2,3918,376,174
+rosette_7
+bounds:1594,3972,82,120
+offsets:3,1,85,121
+sweat_chin
+bounds:2,3673,22,47
+offsets:0,0,27,47
+sweat_face
+bounds:476,4020,18,72
+sweat_head
+bounds:64,3976,18,41
+tongue - 0
+bounds:519,3526,93,88
+tongue - 4
+bounds:364,3957,114,135
+tongue - 5
+bounds:285,3213,112,109
+offsets:0,0,113,109
+tongue - 6
+bounds:2,2545,69,88

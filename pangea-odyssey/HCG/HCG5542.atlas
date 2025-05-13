@@ -1,0 +1,251 @@
+HCG5542.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.92
+F_hair_B
+bounds:3240,2137,371,144
+F_hair_F
+bounds:3067,1590,1000,972
+offsets:2,0,1032,972
+rotate:270
+F_hair_L
+bounds:1437,657,318,571
+offsets:0,7,318,578
+F_hair_R
+bounds:2318,331,238,450
+offsets:0,27,238,477
+LB_hand_rope
+bounds:2362,2679,151,118
+offsets:2,0,153,118
+LB_vaginal_open
+bounds:4007,2495,87,213
+LD_brow - 0 ~ 8
+bounds:15,2816,187,77
+LD_eyelashes - 0
+bounds:1295,2861,155,64
+offsets:1,0,156,64
+LF_hand_rope
+bounds:1207,2788,164,118
+LF_vaginal_open
+bounds:2,312,182,423
+LU_eyelashes - 0
+bounds:2114,2322,203,87
+offsets:0,2,203,92
+L_B_hair
+bounds:1753,793,312,372
+offsets:0,0,312,460
+L_arm
+bounds:2,1125,870,1157
+rotate:90
+L_breast
+bounds:2,2290,564,781
+offsets:9,0,573,781
+rotate:270
+L_breast_nipple
+bounds:193,3881,213,213
+L_brow - 0 - 1 - 2 - 3 - 4
+bounds:2014,2300,222,38
+L_brow - 5
+bounds:1704,3749,203,83
+offsets:0,0,206,83
+L_eye - 3
+bounds:2,2235,183,68
+offsets:0,17,183,92
+L_eyeball - 0 - 1 - 2 - 6
+bounds:2628,2580,107,105
+L_eyeball - 4
+bounds:1457,2495,77,86
+L_eyeball - 5 - 7
+bounds:644,2729,106,78
+L_eyeball - 8
+bounds:1191,2746,68,75
+L_eyeywhite - 0 ~ 8
+bounds:2724,3602,175,106
+offsets:6,0,181,106
+L_hair_flower
+bounds:1531,2278,282,446
+L_hairball
+bounds:1074,3820,244,274
+L_hand
+bounds:3271,152,823,866
+rotate:180
+L_leg_rope
+bounds:2,149,825,2765
+rotate:90
+L_little_leg
+bounds:1930,1467,838,1255
+rotate:90
+L_ribbon
+bounds:826,1216,874,2438
+rotate:90
+L_tear - 6 - 7 - 8
+bounds:125,4033,63,61
+L_vaginal_close
+bounds:3241,440,191,426
+MD_hand_rope
+bounds:2557,197,194,646
+MD_vaginal
+bounds:1320,3846,149,248
+MU_hand_rope
+bounds:3845,3316,200,778
+MU_vaginal
+bounds:753,2636,184,191
+M_hand_rope
+bounds:2560,2658,214,165
+offsets:0,0,218,165
+M_vagina ing
+bounds:3735,3297,109,384
+offsets:0,6,114,390
+RB_hand_rope
+bounds:655,3468,148,111
+offsets:1,14,152,125
+RB_vaginal_open
+bounds:2750,2481,103,206
+RD_brow - 0 ~ 8
+bounds:2391,3821,161,80
+offsets:4,0,165,80
+RD_eyelashes - 0 - 1 - 2 - 4 - 5 - 6 - 7 - 8
+bounds:1454,4032,132,62
+RF_hand_rope
+bounds:3767,2528,161,101
+RF_vaginal_open
+bounds:1129,2043,186,418
+RU_eyelashes - 0 - 1 - 2  - 4 - 5 - 6 - 7 - 8
+bounds:746,2502,182,80
+offsets:0,10,182,93
+R_B_hair
+bounds:748,471,301,404
+offsets:0,0,352,563
+R_breast
+bounds:3547,983,547,699
+R_breast_nipple
+bounds:2340,3885,190,209
+offsets:0,1,190,210
+R_breast_withhand
+bounds:384,3547,547,701
+rotate:270
+R_brow - 0 - 1 - 2 - 3 - 4
+bounds:2173,3875,175,51
+R_brow - 5
+bounds:2128,2949,175,77
+offsets:5,0,180,77
+R_eye - 3
+bounds:3033,2471,176,69
+offsets:0,19,176,93
+R_eyeball - 0 - 1 - 2 - 6
+bounds:981,3999,94,95
+R_eyeball - 4
+bounds:1536,2540,77,86
+R_eyeball - 5 - 7
+bounds:785,2554,98,80
+R_eyeball - 8
+bounds:3857,2484,67,75
+R_eyewhite - 0 ~ 8
+bounds:1833,3834,158,92
+offsets:0,0,164,92
+R_hair_flower
+bounds:2811,2381,222,435
+R_hairball
+bounds:1251,2160,284,365
+offsets:0,40,284,405
+R_hand
+bounds:1386,1795,1013,1724
+rotate:90
+R_leg_rope
+bounds:884,803,698,2809
+rotate:270
+R_ribbon
+bounds:2,1799,1137,2557
+rotate:90
+R_tear - 6 - 7
+bounds:1069,4072,61,22
+offsets:0,0,64,22
+R_tear - 8
+bounds:2511,4039,62,55
+offsets:0,0,64,55
+R_vaginal_close
+bounds:2553,3679,201,415
+body
+bounds:2750,2546,1094,1548
+offsets:0,38,1094,1586
+breast_M_rope
+bounds:3293,2594,169,44
+face
+bounds:156,644,591,609
+facered - 1 ~ 7
+bounds:1810,3927,528,167
+facered - 8
+bounds:1635,2946,510,167
+offsets:18,0,528,167
+labia_close
+bounds:2046,4059,23,35
+labia_open
+bounds:467,4059,23,35
+leg
+bounds:2,2809,2961,1285
+man_L_hand
+bounds:2746,156,518,773
+man_R_hand
+bounds:635,776,626,828
+rotate:270
+man_ochinchin
+bounds:3745,2686,308,628
+offsets:0,1,308,629
+man_ochinchin_water
+bounds:3314,957,251,645
+mouth - 0
+bounds:2003,3890,120,69
+mouth - 1
+bounds:1431,3830,107,36
+offsets:2,0,109,36
+mouth - 2
+bounds:2834,3502,121,109
+mouth - 3
+bounds:1793,2689,129,70
+offsets:0,16,129,86
+mouth - 4
+bounds:289,3791,94,90
+offsets:13,23,119,113
+mouth - 5
+bounds:1518,2954,116,116
+mouth - 6
+bounds:3166,2534,111,68
+offsets:0,2,111,70
+mouth - 7
+bounds:1414,2884,125,113
+offsets:13,23,151,136
+mouth - 8
+bounds:892,2605,121,102
+mouth_sweat - 7
+bounds:402,4032,63,62
+offsets:2,0,65,62
+neck
+bounds:938,2694,251,176
+neck_breast_/rope
+bounds:3774,2578,233,178
+neck_breast_rope
+bounds:945,3621,200,213
+neck_flower
+bounds:496,3399,115,146
+sweat1 - 1 ~ 8
+bounds:1301,4035,17,59
+sweat2 - 1 ~ 8
+bounds:1320,4044,19,50
+sweat3 - 5 - 6 - 7 - 8
+bounds:2332,4049,19,45
+toungue - 4
+bounds:1268,3805,81,85
+offsets:0,1,81,86
+toungue - 7
+bounds:146,2880,100,105
+uterus_up
+bounds:1472,3775,336,319
+offsets:6,28,342,364
+vagina_water
+bounds:2,2883,149,401
+offsets:8,95,157,496
+vaginal_L_sweat
+bounds:3926,2410,62,187
+vaginal_R_sweat
+bounds:4047,3967,37,127

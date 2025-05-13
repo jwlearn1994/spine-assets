@@ -1,0 +1,587 @@
+16520102.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.32
+00_Rarm
+bounds:1413,1427,529,166
+00_chest_L_bare
+bounds:2701,2229,307,301
+offsets:709,663,1415,1204
+03_chesta_R
+bounds:2701,2229,307,301
+offsets:709,663,1415,1204
+00_chest_R_bare
+bounds:2653,2480,216,228
+offsets:890,641,1415,1204
+01_L_hand
+bounds:754,2140,267,342
+offsets:961,264,1415,1204
+rotate:270
+01_Leg_R2_A1
+bounds:2787,2817,606,294
+offsets:115,929,910,1580
+rotate:90
+01_Leg_R2_A1-3
+bounds:2822,1372,606,294
+offsets:115,929,910,1580
+rotate:90
+01_R_leg_1
+bounds:1025,3170,59,69
+offsets:234,1026,910,1580
+01_R_leg_2
+bounds:648,653,569,459
+offsets:189,1012,910,1580
+rotate:180
+03_R_leg1
+bounds:648,653,569,459
+offsets:189,1012,910,1580
+rotate:180
+01_body
+bounds:1599,2307,393,771
+offsets:645,245,1415,1204
+01_body-2
+bounds:1756,3036,393,771
+offsets:645,245,1415,1204
+01_chest_L
+bounds:285,1172,293,173
+offsets:687,667,1415,1204
+01_chest_L-2
+bounds:1377,2304,293,173
+offsets:687,667,1415,1204
+rotate:90
+01_chest_R
+bounds:2072,3123,143,176
+offsets:946,639,1415,1204
+01_chest_R-2
+bounds:1900,2375,143,176
+offsets:946,639,1415,1204
+01_hairband1
+bounds:216,3800,65,65
+offsets:806,1256,1321,1523
+01_hairband2
+bounds:415,2218,113,131
+offsets:730,1217,1321,1523
+01_hairband2-2
+bounds:1298,1892,113,131
+offsets:730,1217,1321,1523
+01_hairband3
+bounds:264,2844,116,142
+offsets:720,1217,1321,1523
+01_hairband3-2
+bounds:382,1335,116,142
+offsets:720,1217,1321,1523
+01_hairband4
+bounds:2482,3528,176,115
+offsets:673,1282,1321,1523
+01_hairband_L
+bounds:2910,3006,678,1087
+offsets:173,200,1321,1523
+rotate:180
+01_hairband_L-2
+bounds:2970,2262,678,1087
+offsets:173,200,1321,1523
+01_hairpin
+bounds:284,3914,109,51
+offsets:1100,1118,1321,1523
+01_knot1
+bounds:1294,1799,103,85
+offsets:924,615,1415,1204
+01_knot1-3
+bounds:1952,2314,103,85
+offsets:924,615,1415,1204
+01_knot2
+bounds:262,4020,46,74
+offsets:950,569,1415,1204
+01_knot2-3
+bounds:384,3490,46,74
+offsets:950,569,1415,1204
+01_knot3
+bounds:335,2797,65,66
+offsets:909,585,1415,1204
+01_knot3-3
+bounds:2,2659,65,66
+offsets:909,585,1415,1204
+01_leg
+bounds:766,2248,382,1399
+offsets:175,61,910,1580
+rotate:180
+01_leg-3
+bounds:1005,2437,382,1399
+offsets:175,61,910,1580
+01_leg2
+bounds:160,3696,42,86
+offsets:312,292,910,1580
+01_necktie
+bounds:2741,2115,364,316
+offsets:846,589,1415,1204
+01_necktie-2
+bounds:3194,2278,364,316
+offsets:846,589,1415,1204
+rotate:270
+01_skirt
+bounds:427,208,386,233
+offsets:624,287,1415,1204
+rotate:90
+01_skirt-2
+bounds:3355,3564,386,233
+offsets:624,287,1415,1204
+rotate:90
+01_skirt2
+bounds:1255,1670,150,142
+offsets:856,312,1415,1204
+01_skirt3
+bounds:70,2315,100,70
+offsets:629,281,1415,1204
+01_sleeve
+bounds:2,3578,316,516
+offsets:852,308,1415,1204
+01_sleeve-2
+bounds:3115,1410,316,516
+offsets:852,308,1415,1204
+01_sleeve-3
+bounds:3070,912,316,516
+offsets:852,308,1415,1204
+01_top
+bounds:1201,1168,900,291
+offsets:216,679,1415,1204
+rotate:180
+01_top-2
+bounds:186,912,900,291
+offsets:216,679,1415,1204
+01_top-3
+bounds:1205,960,900,291
+offsets:216,679,1415,1204
+01_top2
+bounds:578,3048,116,178
+offsets:217,734,1415,1204
+01_top2-2
+bounds:2285,3813,116,178
+offsets:217,734,1415,1204
+01_top7
+bounds:256,3853,165,98
+offsets:734,879,1415,1204
+01_tpp2
+bounds:875,3714,79,79
+offsets:1022,700,1415,1204
+01_tpp3
+bounds:58,4040,52,47
+offsets:722,672,1415,1204
+01_waist_decoration
+bounds:3316,1582,659,274
+offsets:198,252,1415,1204
+rotate:90
+01_waist_decoration-2
+bounds:3366,1189,659,274
+offsets:198,252,1415,1204
+rotate:90
+03_L_hand
+bounds:3416,2814,267,342
+offsets:961,264,1415,1204
+rotate:180
+03_R_leg2
+bounds:2621,2911,606,294
+offsets:115,929,910,1580
+rotate:90
+03_R_leg2-3
+bounds:2474,2235,606,294
+offsets:115,929,910,1580
+rotate:90
+03_body
+bounds:1150,3268,393,771
+offsets:645,245,1415,1204
+rotate:180
+03_body-2
+bounds:1485,3300,393,771
+offsets:645,245,1415,1204
+rotate:180
+03_body-3
+bounds:1328,2571,393,771
+offsets:645,245,1415,1204
+rotate:180
+03_chest_R
+bounds:572,351,215,228
+offsets:890,641,1415,1204
+03_hairband1-2
+bounds:2554,3231,109,114
+offsets:812,1246,1321,1523
+03_hairband1
+bounds:2554,3231,109,114
+offsets:812,1246,1321,1523
+03_hairband2
+bounds:1204,3102,242,215
+offsets:681,1207,1321,1523
+rotate:180
+03_hairband2-2
+bounds:3500,1957,242,215
+offsets:681,1207,1321,1523
+rotate:270
+03_hairband2-3
+bounds:3485,2,242,215
+offsets:681,1207,1321,1523
+rotate:90
+03_hairband_L
+bounds:2739,2639,711,1120
+offsets:139,169,1321,1523
+rotate:180
+03_hairband_L-2
+bounds:2,12,711,1120
+offsets:139,169,1321,1523
+03_hairband_L-3
+bounds:2782,2974,711,1120
+offsets:139,169,1321,1523
+rotate:180
+03_leg
+bounds:613,2404,382,1418
+offsets:175,42,910,1580
+03_leg-3
+bounds:376,2250,382,1418
+offsets:175,42,910,1580
+03_skirt01
+bounds:3058,3827,452,267
+offsets:560,284,1415,1204
+03_skirt01-2
+bounds:3196,750,452,267
+offsets:560,284,1415,1204
+rotate:90
+03_skirt02
+bounds:3318,496,595,207
+offsets:262,333,1415,1204
+rotate:90
+03_skirt02-2
+bounds:3325,2,595,207
+offsets:262,333,1415,1204
+rotate:90
+03_skirt2
+bounds:161,2287,150,142
+offsets:856,312,1415,1204
+03_skirt3
+bounds:1440,3956,178,138
+offsets:557,221,1415,1204
+03_sleeve
+bounds:2,1131,407,490
+offsets:858,239,1415,1204
+03_sleeve-2
+bounds:2480,3604,407,490
+offsets:858,239,1415,1204
+03_sleeve-3
+bounds:2443,1186,407,490
+offsets:858,239,1415,1204
+03_top2
+bounds:1267,3044,74,85
+offsets:745,627,1415,1204
+03_top3
+bounds:2478,1962,203,302
+offsets:217,600,1415,1204
+03_top3-2
+bounds:1470,660,203,302
+offsets:217,600,1415,1204
+03_top3-3
+bounds:3077,2971,203,302
+offsets:217,600,1415,1204
+03_top4
+bounds:52,3895,22,126
+offsets:1084,587,1415,1204
+03_top4-2
+bounds:2,3772,22,126
+offsets:1084,587,1415,1204
+03_top_1
+bounds:1964,2778,204,147
+offsets:701,860,1415,1204
+03_top_1-2
+bounds:1017,1170,204,147
+offsets:701,860,1415,1204
+03_top_2
+bounds:1075,2049,887,393
+offsets:225,586,1415,1204
+03_top_2-2
+bounds:476,1750,887,393
+offsets:225,586,1415,1204
+rotate:180
+03_top_2-3
+bounds:2,1945,887,393
+offsets:225,586,1415,1204
+03_top_3
+bounds:2,3886,61,208
+offsets:857,670,1415,1204
+03_top_3-2
+bounds:560,3501,61,208
+offsets:857,670,1415,1204
+04_BL_shoulder_line - 1
+bounds:3443,1702,251,322
+rotate:180
+04_BL_shoulder_line - 2
+bounds:3106,3189,251,322
+rotate:180
+04_BL_shoulder_line - 3
+bounds:1761,3772,251,322
+rotate:180
+04_B_hair
+bounds:2473,2916,130,190
+04_B_skirt - 1
+bounds:2929,1975,228,199
+04_B_skirt - 2
+bounds:1073,3895,228,199
+04_FL_shoulder_line - 1
+bounds:3459,2217,229,336
+04_FL_shoulder_line - 2
+bounds:3452,864,229,336
+04_FL_shoulder_line - 3
+bounds:3304,2589,229,336
+rotate:90
+04_L_arm - 1
+bounds:2794,3513,297,407
+rotate:90
+04_L_arm - 2 - 3
+bounds:463,1518,297,407
+rotate:90
+04_L_hair2
+bounds:1768,1823,122,197
+04_L_leg
+bounds:2043,2777,365,1317
+rotate:180
+04_L_shoulder_clo
+bounds:827,3647,122,79
+04_L_waist_line - 1
+bounds:169,2228,287,1006
+04_L_waist_line - 2
+bounds:2912,2,287,1006
+04_L_waist_line - 3
+bounds:2949,1748,287,1006
+04_L_waist_line2 - 1
+bounds:1735,1363,534,756
+rotate:270
+04_L_waist_line2 - 2
+bounds:278,1137,534,755
+offsets:0,1,534,756
+rotate:270
+04_L_waist_line2 - 3
+bounds:661,1347,534,753
+offsets:0,3,534,756
+rotate:270
+04_RB_arm_acc
+bounds:413,3936,42,35
+04_RB_hair
+bounds:1018,2968,100,144
+04_RB_shoulder_clo - 1
+bounds:1612,662,243,189
+04_RB_shoulder_clo - 2 - 3
+bounds:2598,1674,243,190
+04_RB_shoulder_line - 1
+bounds:2,199,429,314
+rotate:90
+04_RB_shoulder_line - 2 - 3
+bounds:1183,249,429,314
+04_RB_shoulder_line2 - 1
+bounds:842,1683,375,170
+04_RB_shoulder_line2 - 2 - 3
+bounds:3302,3924,375,170
+04_RF_arm_acc - 1
+bounds:2323,3449,76,91
+04_RF_arm_acc - 2
+bounds:906,2313,76,91
+04_RF_arm_acc - 3
+bounds:1874,3808,76,91
+04_RF_hair
+bounds:502,1524,204,188
+04_RF_shoulder_clo - 1
+bounds:306,3137,320,138
+offsets:0,82,320,220
+rotate:90
+04_RF_shoulder_clo - 2
+bounds:2091,1235,320,138
+offsets:0,82,320,220
+04_RF_shoulder_clo - 3
+bounds:521,3220,320,133
+offsets:0,87,320,220
+rotate:90
+04_RF_shoulder_line - 1
+bounds:925,2,491,539
+04_RF_shoulder_line - 2
+bounds:723,2,491,539
+04_RF_shoulder_line - 3
+bounds:650,70,491,539
+04_RF_shoulder_line2 - 1
+bounds:3528,1178,419,125
+rotate:90
+04_RF_shoulder_line2 - 2
+bounds:3515,3515,419,125
+rotate:90
+04_RF_shoulder_line2 - 3
+bounds:3504,106,419,125
+rotate:90
+04_R_arm
+bounds:3185,65,685,179
+rotate:90
+04_R_big_leg
+bounds:1911,838,566,443
+offsets:0,0,566,446
+rotate:180
+04_R_little_leg
+bounds:2236,2,619,312
+04_R_shoulder_acc
+bounds:1067,3821,112,52
+04_R_sjoulder_armor - 1
+bounds:2474,4012,193,82
+04_R_sjoulder_armor - 2
+bounds:2280,4012,193,82
+04_R_sjoulder_armor - 3
+bounds:470,4012,193,82
+04_R_waist_line - 1
+bounds:1335,2,664,1149
+rotate:270
+04_R_waist_line - 2
+bounds:2471,2442,664,1146
+offsets:0,3,664,1149
+04_R_waist_line - 3
+bounds:1868,2,664,1146
+offsets:0,3,664,1149
+rotate:90
+04_R_waist_line2 - 1
+bounds:2132,663,756,793
+rotate:270
+04_R_waist_line2 - 2
+bounds:2373,661,756,791
+offsets:0,2,756,793
+rotate:270
+04_R_waist_line2 - 3
+bounds:2356,1682,756,791
+offsets:0,2,756,793
+rotate:270
+04_T_hair
+bounds:254,3181,89,67
+04_body
+bounds:1973,2098,393,706
+offsets:645,245,1415,1204
+04_body_clo - 1
+bounds:2,1455,514,566
+rotate:270
+04_body_clo - 2
+bounds:1404,1575,514,566
+rotate:180
+04_body_clo - 3
+bounds:1830,1755,514,565
+rotate:90
+04_breast - 1
+bounds:1045,659,437,264
+offsets:0,18,437,282
+04_breast - 2
+bounds:152,683,437,264
+offsets:0,18,437,282
+04_breast_L_acc - 1
+bounds:1540,2401,105,167
+04_breast_L_acc - 2
+bounds:2479,3845,105,167
+04_breast_L_acc - 3
+bounds:1926,2148,99,167
+offsets:0,0,105,167
+04_breast_M_acc - 1
+bounds:1301,4025,106,54
+04_breast_M_acc - 2
+bounds:659,2206,104,54
+offsets:0,0,106,54
+04_breast_M_acc - 3
+bounds:1926,4042,103,52
+offsets:1,2,106,54
+04_breast_R_acc - 1
+bounds:1024,3242,58,193
+04_breast_R_acc - 2
+bounds:1072,2775,58,191
+offsets:0,2,58,193
+04_breast_R_acc - 3
+bounds:2,2223,57,191
+offsets:0,2,58,193
+04_head_acc - 1
+bounds:2797,3837,203,195
+04_head_acc - 2
+bounds:2977,3643,203,194
+offsets:0,1,203,195
+04_head_acc - 3
+bounds:1913,1395,203,192
+offsets:0,3,203,195
+04_head_acc2_1 - 1
+bounds:2,3529,68,65
+04_head_acc2_1 - 2 - 3
+bounds:1020,3112,68,65
+04_head_acc2_2 - 1
+bounds:603,3682,53,73
+04_head_acc2_2 - 2 - 3
+bounds:376,3075,52,70
+offsets:1,3,53,73
+04_head_acc3
+bounds:1426,3579,61,92
+04_head_hat
+bounds:115,904,164,154
+04_neck
+bounds:184,3233,132,140
+ExclusiveWeapon_Shanyan
+bounds:2385,1801,111,2256
+offsets:960,81,1946,2417
+L_eyeball
+bounds:470,3997,24,26
+L_eyebrow
+bounds:82,4041,39,35
+L_eyelid_dw
+bounds:218,3784,31,16
+L_eyelid_up
+bounds:260,3405,43,38
+L_eyewhite
+bounds:25,3867,31,28
+L_fingers2
+bounds:315,3454,71,47
+L_fingers3
+bounds:48,2661,115,91
+Mouth2
+bounds:236,3369,43,34
+offsets:0,2,43,36
+NormalWeapon_Polearm
+bounds:204,567,134,2151
+rotate:90
+R_eyeball
+bounds:182,3782,34,32
+R_eyebrow
+bounds:630,3757,83,45
+R_eyelid_dw
+bounds:470,3962,49,30
+R_eyelid_up
+bounds:297,2567,76,47
+R_eyewhite
+bounds:2,3492,56,41
+offsets:3,0,59,41
+R_finger1
+bounds:210,2259,86,50
+R_hand
+bounds:2679,3510,175,164
+Shy
+bounds:314,3973,154,121
+face
+bounds:1935,2884,245,253
+hair01
+bounds:3442,527,219,358
+rotate:180
+hair02
+bounds:2,2724,86,184
+hair03
+bounds:603,3322,85,199
+hair04
+bounds:179,2986,146,151
+hair05
+bounds:1977,3794,69,230
+hair06
+bounds:2291,3532,79,287
+hair07
+bounds:2,2382,294,284
+hair08
+bounds:989,4010,117,84
+offsets:5,0,122,84
+hair09
+bounds:2131,2885,114,244
+hair10
+bounds:2,2606,1085,1488
+haira08
+bounds:634,2738,70,343
+mouth
+bounds:57,4024,29,16
+panties_bow
+bounds:565,1772,109,93
+offsets:689,361,1415,1204

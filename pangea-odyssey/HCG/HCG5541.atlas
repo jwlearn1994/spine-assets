@@ -1,0 +1,203 @@
+HCG5541.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.8
+GG
+bounds:2600,2,1210,627
+rotate:270
+GG+semen
+bounds:2379,1182,1217,646
+offsets:0,0,1217,650
+rotate:90
+L_Shoulder
+bounds:223,2689,275,196
+L_arm
+bounds:2908,479,1754,521
+rotate:90
+L_eye - 3
+bounds:1073,3804,138,66
+offsets:4,10,142,78
+L_eyeball
+bounds:2,2798,80,97
+L_eyebrow
+bounds:519,3799,110,58
+L_eyelashes_dw
+bounds:1220,2949,102,75
+L_eyelashes_up
+bounds:1517,3804,152,66
+offsets:0,36,153,102
+L_eyelashes_up2
+bounds:509,2659,116,27
+L_eyelid_up - 2 - 6
+bounds:1052,3018,132,79
+offsets:0,0,142,85
+L_eyelid_up - 3
+bounds:778,3751,74,36
+offsets:0,0,79,36
+L_eyelid_up - 4 - 5
+bounds:854,2163,113,57
+offsets:0,1,113,58
+L_eyelight
+bounds:17,3760,16,22
+L_eyewhite
+bounds:961,3776,123,94
+offsets:0,13,123,107
+L_finger_1
+bounds:2053,3615,290,224
+L_finger_2
+bounds:980,1175,416,136
+L_leg
+bounds:595,499,1426,1931
+rotate:90
+L_man_hand
+bounds:953,1953,782,538
+R_arm
+bounds:220,60,2358,418
+R_chest
+bounds:649,2238,826,778
+R_eye - 3
+bounds:424,2607,210,82
+offsets:17,0,227,82
+R_eyeball
+bounds:262,2882,112,106
+R_eyebrow
+bounds:804,2207,234,71
+R_eyelashes_dw
+bounds:1398,2435,153,64
+offsets:0,0,158,64
+R_eyelashes_up
+bounds:2262,3784,240,86
+offsets:0,0,240,90
+R_eyelashes_up2
+bounds:1902,3831,170,39
+offsets:0,0,171,41
+R_eyelid_up - 2 - 6
+bounds:408,3819,178,51
+offsets:0,0,182,89
+R_eyelid_up - 3
+bounds:1497,3739,115,61
+offsets:0,21,138,82
+R_eyelid_up - 4 - 5
+bounds:1010,1904,177,73
+offsets:1,8,178,81
+R_eyelight
+bounds:120,3850,20,20
+R_eyewhite
+bounds:762,3766,198,104
+offsets:0,6,198,110
+R_fingers
+bounds:2190,2526,296,224
+offsets:4,0,300,224
+R_leg
+bounds:2,1260,1433,2654
+rotate:90
+R_man_hand
+bounds:2983,2972,898,489
+offsets:0,0,898,510
+rotate:270
+R_nipple
+bounds:1477,2500,228,218
+offsets:2,0,242,218
+blush - 1 - 2 - 3 - 4 - 5
+bounds:2775,2182,860,551
+offsets:60,55,962,637
+rotate:90
+blush - 6
+bounds:2339,2877,919,576
+offsets:36,10,994,637
+rotate:90
+body
+bounds:2,2576,2401,1294
+face
+bounds:2,384,771,791
+offsets:0,0,871,791
+rotate:90
+hair_1
+bounds:2,1092,232,348
+hair_10
+bounds:1680,441,1047,918
+rotate:90
+hair_11
+bounds:1341,1286,174,202
+hair_12
+bounds:1625,3685,185,551
+rotate:90
+hair_2
+bounds:3193,43,256,442
+rotate:180
+hair_3
+bounds:2588,2455,141,423
+hair_4
+bounds:3143,1433,318,846
+hair_5
+bounds:171,1043,362,640
+hair_6
+bounds:1611,2117,268,496
+hair_7
+bounds:2,2680,259,470
+hair_8
+bounds:500,2680,302,196
+hair_9
+bounds:2,1442,376,456
+offsets:0,6,382,462
+mouth - 1
+bounds:603,3745,174,125
+offsets:0,10,174,135
+mouth - 2
+bounds:2,1901,166,138
+mouth - 3
+bounds:2225,2906,171,192
+offsets:2,0,179,192
+mouth - 4
+bounds:132,1235,161,180
+mouth - 5
+bounds:1195,3754,190,116
+offsets:0,30,190,146
+mouth - 6
+bounds:2366,2824,170,133
+offsets:0,0,170,137
+saliva - 5
+bounds:2,3712,18,70
+saliva - 6
+bounds:2,1983,41,161
+offsets:0,0,41,166
+swaet - 6
+bounds:48,3790,34,19
+sweat - 4
+bounds:2344,3681,189,576
+offsets:27,0,216,576
+rotate:90
+sweat1 - 2
+bounds:48,3811,34,19
+sweat2 - 2
+bounds:2,3154,34,86
+sweat2 - 6
+bounds:3262,977,411,533
+offsets:0,0,411,536
+sweat3 - 2
+bounds:609,2518,31,102
+tear1 - 5
+bounds:375,2887,49,26
+tear2 - 5
+bounds:36,2706,40,90
+tear3 - 5
+bounds:2,2619,32,177
+tear4 - 5
+bounds:2,3784,44,86
+tear5 - 5
+bounds:48,3832,70,38
+tears1 - 3
+bounds:2,2897,62,138
+tears2 - 3
+bounds:189,2695,37,60
+tears3 - 3
+bounds:500,2793,62,30
+tears4 - 3
+bounds:1086,3771,79,32
+tears5 - 3
+bounds:36,2624,40,80
+tears6 - 3
+bounds:2,2535,26,82
+tongue - 5
+bounds:1387,3757,139,113

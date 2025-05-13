@@ -1,0 +1,259 @@
+13510102.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.5
+ExclusiveWeapon_Therese
+bounds:2,759,843,3335
+offsets:1022,82,2880,3584
+F_hair_01_F
+bounds:2,3161,99,207
+F_hair_01_F_shadow
+bounds:2,2987,83,172
+offsets:0,0,83,178
+LB_hair_01
+bounds:173,3856,147,238
+LB_hair_02_B
+bounds:735,3378,105,62
+LB_hair_02_F
+bounds:309,3244,37,102
+LB_hair_03_B
+bounds:301,3070,43,77
+LB_hair_03_F
+bounds:563,3192,126,78
+LB_hair_04
+bounds:1024,3424,85,83
+LT_hair_01
+bounds:2105,902,231,231
+rotate:270
+L_belly_clo - 1
+bounds:1976,3522,262,298
+rotate:180
+L_belly_clo - 2
+bounds:1949,2897,262,298
+rotate:180
+L_belly_clo - 3
+bounds:1949,3799,263,295
+offsets:1,3,264,298
+L_big_arm - 1
+bounds:2033,1179,223,387
+offsets:14,0,237,389
+L_big_arm - 2
+bounds:801,1581,223,387
+offsets:14,0,237,389
+L_big_arm - 3
+bounds:973,3705,237,389
+L_big_arm_acc - 1
+bounds:2171,3883,159,197
+L_big_arm_acc - 2
+bounds:2129,2445,159,197
+L_big_arm_acc - 3
+bounds:1261,3156,159,197
+offsets:0,0,160,197
+L_blow - 1
+bounds:614,3197,70,16
+L_blow - 2 - 3
+bounds:1064,3695,85,11
+L_breast - 2
+bounds:1983,381,202,238
+offsets:0,0,202,271
+L_breast - 3
+bounds:1683,2562,202,238
+offsets:0,0,202,271
+L_breast_light1 - 3
+bounds:2,3826,19,54
+L_breast_light2 - 3
+bounds:33,4033,12,18
+L_breast_nipple - 3
+bounds:300,3000,69,70
+L_eyeball
+bounds:117,3553,44,46
+L_eyelashes2
+bounds:1009,3388,86,69
+L_eyelashes_D
+bounds:597,3150,69,47
+L_eyelashes_U
+bounds:641,3261,91,40
+L_eyewhite
+bounds:755,4051,66,43
+L_hair_01_B
+bounds:2,3747,43,45
+offsets:0,0,43,48
+L_hair_01_F
+bounds:1979,1894,249,244
+rotate:90
+L_hair_01_F_shadow
+bounds:964,3937,173,157
+L_hair_02
+bounds:137,3550,68,227
+L_hand05 - 1
+bounds:2105,1120,211,107
+L_hand05 - 2 - 3
+bounds:2045,308,211,107
+L_hand1
+bounds:303,3148,71,62
+L_hand2
+bounds:1382,3219,160,63
+L_hand34 - 1
+bounds:2158,536,154,69
+L_hand34 - 2 - 3
+bounds:1698,2802,154,69
+L_hand_clo_B - 1 - 2
+bounds:1383,3277,130,97
+L_hand_clo_B - 3
+bounds:1209,3997,130,97
+L_hand_clo_F  - 1
+bounds:1960,1451,188,502
+offsets:3,0,191,502
+L_hand_clo_F  - 2
+bounds:457,2688,188,502
+offsets:3,0,191,502
+L_hand_clo_F  - 3
+bounds:2,3592,188,502
+offsets:3,0,191,502
+L_leg - 1
+bounds:1370,1210,255,1294
+L_leg - 2
+bounds:1228,477,255,1294
+L_leg - 3
+bounds:838,2800,255,1294
+NormalWeapon_Polearm
+bounds:1088,483,210,3361
+rotate:180
+RF_hair_01
+bounds:1228,1959,156,402
+RT_hair_01
+bounds:2121,2055,193,65
+R_belly_clo - 1
+bounds:983,1902,173,262
+R_belly_clo - 2
+bounds:173,2255,173,262
+R_belly_clo - 3
+bounds:2132,1579,173,259
+offsets:0,3,173,262
+R_blow - 1
+bounds:953,4055,63,14
+R_blow - 2 - 3
+bounds:2,3370,63,29
+R_breast - 2
+bounds:2,3369,159,224
+R_breast - 3
+bounds:87,1737,202,224
+R_breast_light1 - 3
+bounds:29,4070,24,24
+R_breast_light2 - 3
+bounds:424,4042,45,52
+R_breast_nipple - 3
+bounds:313,4037,55,57
+R_eyeball
+bounds:2,3705,42,41
+R_eyelashes2
+bounds:2,2951,80,45
+R_eyelashes_D
+bounds:99,3333,61,31
+R_eyelashes_U
+bounds:768,3441,78,33
+R_eyewhite
+bounds:531,4056,60,38
+R_hair_01
+bounds:1567,3853,137,241
+R_hair_02
+bounds:1011,3509,91,199
+R_hair_03_B
+bounds:313,3324,53,40
+offsets:0,0,53,41
+R_hair_03_F
+bounds:2165,820,151,163
+offsets:0,10,151,173
+R_hand - 1
+bounds:1228,2353,137,252
+R_hand - 2 - 3
+bounds:1677,3432,137,252
+R_hand1 - 1
+bounds:457,2553,94,170
+R_hand1 - 2
+bounds:275,2485,94,170
+R_hand1 - 3
+bounds:807,2760,94,170
+R_hand2
+bounds:2,3885,32,78
+R_hand3
+bounds:2,4008,32,86
+R_hand45 - 1
+bounds:291,2755,53,101
+R_hand45 - 2
+bounds:281,2656,53,101
+R_hand45 - 3
+bounds:484,3993,53,101
+R_hand_clo_B
+bounds:660,3272,165,134
+R_hand_clo_F - 1
+bounds:1810,2122,428,879
+R_hand_clo_F - 2
+bounds:1803,599,428,879
+R_hand_clo_F - 3
+bounds:1708,3215,428,879
+rotate:180
+R_leg - 1
+bounds:492,130,355,1521
+R_leg - 2
+bounds:482,1749,355,1521
+R_leg - 3
+bounds:2,2358,355,1521
+R_leg_shadow - 1 - 2 - 3
+bounds:2039,3201,259,277
+rotate:270
+R_leg_shadow - 2
+bounds:2038,2636,259,277
+rotate:90
+belly_acc
+bounds:458,2457,99,95
+cloak - 1
+bounds:783,199,378,950
+rotate:180
+cloak - 2
+bounds:775,1845,378,950
+rotate:180
+cloak - 3
+bounds:456,3137,378,950
+rotate:180
+face
+bounds:1916,2,304,334
+rotate:180
+facered
+bounds:2034,3429,216,110
+offsets:18,16,262,137
+main_body - 2
+bounds:2,1959,324,397
+main_clo - 1
+bounds:1225,2480,474,740
+rotate:180
+main_clo - 2
+bounds:1211,3354,474,740
+rotate:180
+main_clo - 3
+bounds:858,2,474,740
+rotate:270
+mouth - 1
+bounds:953,4064,65,30
+mouth - 2
+bounds:306,3211,68,31
+mouth - 3
+bounds:144,3513,51,35
+nose
+bounds:173,3809,26,51
+skirt_B - 1
+bounds:1574,176,550,409
+rotate:270
+skirt_B - 2
+bounds:1571,1483,550,409
+rotate:270
+skirt_F - 1
+bounds:1515,1970,554,459
+rotate:90
+skirt_F - 2
+bounds:1449,680,554,459
+rotate:90
+underbody
+bounds:1574,2939,481,377
+rotate:270

@@ -1,0 +1,112 @@
+{
+  "skeleton": {
+    "hash": "PBgGRb8wwrk3jwUaL/KJ8w+jO1A",
+    "spine": "3.6.52",
+    "width": 4102,
+    "height": 3586
+  },
+  "bones": [
+    {
+      "name": "root",
+      "parent": null,
+      "transform": "normal"
+    }
+  ],
+  "slots": [
+    {
+      "name": "Pilot_100491",
+      "bone": "root",
+      "attachment": "Pilot_100491",
+      "blend": "normal"
+    }
+  ],
+  "ik": [],
+  "transform": [],
+  "path": [],
+  "skins": {
+    "default": {
+      "Pilot_100491": {
+        "Pilot_100491": {
+          "type": "region",
+          "name": "Pilot_100491",
+          "path": "Pilot_100491",
+          "rotation": 0,
+          "x": -195.761962890625,
+          "y": 884.9155883789062,
+          "scaleX": 1,
+          "scaleY": 1,
+          "width": 2051,
+          "height": 1793,
+          "color": "ffffffff"
+        }
+      }
+    }
+  },
+  "skinsName": [
+    "default"
+  ],
+  "events": {},
+  "eventsName": [],
+  "animations": {
+    "idle": {
+      "slots": {},
+      "bones": {
+        "root": {
+          "rotate": [
+            {
+              "time": 0,
+              "angle": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "angle": 0
+            }
+          ],
+          "translate": [
+            {
+              "time": 0,
+              "x": 0,
+              "y": 0,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "scale": [
+            {
+              "time": 0,
+              "x": 1,
+              "y": 1,
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "x": 1,
+              "y": 1
+            }
+          ]
+        }
+      },
+      "ik": {},
+      "transform": {},
+      "paths": {},
+      "deform": {}
+    },
+    "pseudo_setup_pose": {
+      "bones": {},
+      "slots": {},
+      "ik": {},
+      "ffd": {},
+      "drawOrder": [
+        {
+          "offsets": [],
+          "time": 0
+        }
+      ]
+    }
+  }
+}

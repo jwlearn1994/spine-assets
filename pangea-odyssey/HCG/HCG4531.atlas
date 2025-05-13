@@ -1,0 +1,271 @@
+HCG4531.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.85
+B_hair
+bounds:1558,1654,926,2361
+offsets:0,25,926,2386
+rotate:180
+L_Eyebrow - 0 - 6
+bounds:604,2943,138,27
+L_Eyebrow - 1
+bounds:880,2185,122,86
+L_Eyebrow - 2 - 3 - 4 - 5
+bounds:98,3967,154,27
+L_calf
+bounds:2,1268,506,1711
+L_chest
+bounds:1153,657,456,622
+L_chest_light
+bounds:1091,2569,123,65
+L_chest_light2
+bounds:2,3945,99,70
+L_ear
+bounds:174,3558,117,127
+offsets:0,0,117,128
+L_eye_white - 0 - 1 - 4 - 5 - 6
+bounds:797,2366,103,66
+offsets:1,0,105,66
+L_eyeball - 0 - 1 - 4 - 5 - 6
+bounds:400,2981,65,62
+L_eyelid_dw - 0 - 1 - 4 - 5 - 6
+bounds:1339,3972,88,43
+L_eyelid_up - 0 - 1 - 4 - 5 - 6
+bounds:807,2311,130,73
+L_eyelid_up - 2 - 3
+bounds:814,2271,123,76
+offsets:0,13,123,89
+L_eyelid_up2 - 0 ~ 7
+bounds:1621,3231,111,53
+offsets:0,0,111,54
+L_finger_1
+bounds:285,3714,55,74
+offsets:0,0,56,74
+L_finger_2
+bounds:908,3281,62,83
+offsets:8,0,70,83
+L_finger_3
+bounds:132,3476,56,57
+offsets:0,9,56,66
+L_finger_4
+bounds:251,3681,61,47
+L_hair
+bounds:746,1760,393,688
+L_horn
+bounds:489,2415,206,527
+L_nipple
+bounds:97,2560,136,188
+offsets:2,2,138,190
+L_tear - 6 - 7
+bounds:1607,3563,85,86
+L_tears - 0 - 4 - 5
+bounds:800,3362,64,31
+L_thigh
+bounds:417,1180,589,1768
+rotate:90
+R_Eyebrow - 0 - 6
+bounds:831,2143,116,94
+R_Eyebrow - 1
+bounds:91,3984,145,31
+R_Eyebrow - 2 - 3 - 4 - 5
+bounds:817,2192,99,122
+R_chest
+bounds:2185,1009,481,554
+R_chest_light
+bounds:105,3418,51,63
+R_ear
+bounds:2,2057,82,153
+R_eye_white - 0 ~ 7
+bounds:1548,3358,108,62
+offsets:0,12,108,74
+R_eyeball - 0 ~ 7
+bounds:2,3593,69,66
+R_eyelid_dw - 0 ~ 7
+bounds:1544,3979,77,36
+R_eyelid_up - 0 ~ 7
+bounds:1091,2500,134,70
+R_eyelid_up2 - 0 ~ 7
+bounds:1417,3597,104,57
+offsets:0,0,104,59
+R_fingers
+bounds:463,3932,124,83
+offsets:0,0,133,88
+R_hair
+bounds:2,541,462,728
+rotate:90
+R_horn
+bounds:1471,3544,299,471
+offsets:52,46,351,517
+R_nipple
+bounds:726,3124,188,236
+R_tear - 5 - 6 - 7
+bounds:171,2541,56,77
+offsets:2,0,58,77
+R_tears - 0 - 4
+bounds:667,3225,55,30
+offsets:1,0,56,30
+Uterus_bulge
+bounds:1819,1673,566,465
+offsets:6,0,586,479
+body
+bounds:2,1842,1616,2173
+face
+bounds:1539,679,417,459
+facered - 2 - 3 - 4 - 5
+bounds:87,646,350,237
+offsets:0,0,350,242
+facered - 6
+bounds:2989,3764,353,251
+offsets:7,0,360,255
+facered - 7
+bounds:2579,3074,350,233
+offsets:0,0,350,242
+hair_3
+bounds:306,3787,155,228
+hair_4
+bounds:399,1721,244,196
+hair_5
+bounds:2,3314,133,252
+hair_6
+bounds:1451,404,581,672
+head_acc
+bounds:2,439,500,361
+offsets:0,1,500,362
+mouth - 1
+bounds:71,2167,89,118
+mouth - 2
+bounds:117,2754,97,99
+mouth - 3
+bounds:1566,3500,118,72
+mouth - 4
+bounds:1433,3919,88,96
+mouth - 5
+bounds:1125,3921,101,94
+offsets:0,0,105,94
+mouth - 6
+bounds:1005,2566,86,124
+mouth - 7 ing
+bounds:2,3660,78,82
+nose
+bounds:2,3133,34,54
+saliva - 2
+bounds:442,3859,58,60
+offsets:3,0,61,60
+saliva - 4
+bounds:170,3513,50,43
+offsets:0,0,52,43
+saliva - 6
+bounds:94,3356,57,66
+seman
+bounds:2,2210,151,639
+offsets:71,82,222,721
+sweat - 5
+bounds:1318,1910,236,206
+sweat - 6
+bounds:435,1798,235,276
+sweat - 7
+bounds:389,2023,235,264
+sweat1 - 3 - 4
+bounds:236,3979,22,36
+sweat2 - 3 - 4
+bounds:2,3897,28,47
+tentacle_1
+bounds:2618,3056,1244,689
+tentacle_10
+bounds:2231,3435,580,1533
+rotate:270
+tentacle_10-2
+bounds:1046,2419,117,164
+tentacle_10-3
+bounds:3047,2857,343,819
+offsets:0,210,343,1029
+rotate:90
+tentacle_11
+bounds:2248,2357,1286,1143
+rotate:90
+tentacle_11-3
+bounds:1557,3019,228,221
+tentacle_11_2
+bounds:910,3184,76,94
+tentacle_12
+bounds:2,3544,336,471
+offsets:0,49,358,520
+tentacle_12-2
+bounds:641,2729,82,181
+tentacle_12-3
+bounds:1557,3263,185,230
+offsets:0,35,185,265
+tentacle_13
+bounds:3138,996,834,916
+offsets:0,0,835,916
+rotate:180
+tentacle_14
+bounds:1247,3704,397,311
+tentacle_14-2
+bounds:860,2478,172,223
+tentacle_15
+bounds:2612,1958,272,568
+tentacle_15-2
+bounds:969,1754,183,179
+offsets:0,0,184,179
+tentacle_2
+bounds:3208,394,779,698
+tentacle_3
+bounds:1911,650,1092,706
+offsets:0,3,1092,709
+rotate:180
+tentacle_4
+bounds:3162,694,690,621
+tentacle_5
+bounds:2,838,1154,375
+tentacle_5_2
+bounds:846,3005,125,189
+offsets:0,0,957,427
+tentacle_6
+bounds:2725,1042,1145,1290
+rotate:90
+tentacle_6-2
+bounds:1226,1701,219,326
+offsets:6,1,225,327
+tentacle_7
+bounds:1551,2635,254,382
+offsets:0,0,254,388
+tentacle_8
+bounds:469,2902,382,265
+offsets:4,0,386,265
+tentacle_9
+bounds:2244,1203,674,1556
+tentacle_9-2
+bounds:131,2329,78,229
+tongue - 4
+bounds:631,3167,79,65
+tongue - 6
+bounds:2,3237,75,82
+offsets:0,0,76,82
+tongue - 7
+bounds:717,2849,71,57
+vaginal_1_1
+bounds:784,2421,166,112
+offsets:0,12,166,124
+vaginal_1_2
+bounds:2,3187,57,53
+offsets:7,8,64,61
+vaginal_1_3
+bounds:2,4001,15,14
+vaginal_1_4
+bounds:425,2244,197,113
+offsets:4,0,201,113
+vaginal_1_5
+bounds:1372,3633,182,132
+offsets:0,0,184,132
+vaginal_2_1
+bounds:223,4001,15,14
+vaginal_2_2
+bounds:971,3941,153,74
+vaginal_2_3
+bounds:1585,2948,208,117
+offsets:0,0,208,130
+vaginal_2_4
+bounds:1482,3416,185,128
+offsets:0,0,260,128

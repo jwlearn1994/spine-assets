@@ -1,0 +1,334 @@
+13020102.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.4
+B_clo - 1
+bounds:1753,1353,633,1348
+offsets:0,0,644,1348
+B_clo - 2
+bounds:575,1436,633,1348
+offsets:0,0,644,1348
+rotate:90
+B_clo - 3
+bounds:1425,2702,629,1348
+offsets:0,0,644,1348
+B_hair
+bounds:2,1986,1252,2064
+ExclusiveWeapon_LiYiXiang
+bounds:930,1976,671,1368
+L_B_bangs
+bounds:708,3991,78,59
+L_B_hand_sleeve - 1
+bounds:1365,3345,130,251
+L_B_hand_sleeve - 2
+bounds:781,1953,130,251
+L_B_hand_sleeve - 3
+bounds:408,1435,129,251
+offsets:1,0,130,251
+L_D_eyelashes
+bounds:43,2927,56,19
+L_F_bangs
+bounds:2920,2631,118,236
+L_F_bangs_sha
+bounds:152,2213,94,172
+offsets:27,0,121,236
+L_F_hand_sleeve - 1
+bounds:2210,634,183,260
+L_F_hand_sleeve - 2
+bounds:1459,595,183,260
+L_F_hand_sleeve - 3
+bounds:1275,582,183,260
+L_U_eyelashes
+bounds:365,4012,75,38
+offsets:1,0,76,38
+L_breast - 1
+bounds:2055,2920,291,308
+offsets:0,0,302,308
+L_breast - 2
+bounds:637,2766,291,308
+offsets:0,0,302,308
+L_breast - 3
+bounds:2054,3175,302,309
+L_breast_nipple - 3
+bounds:2,3621,53,112
+L_breast_white - 3
+bounds:683,3951,34,36
+L_ear
+bounds:891,3876,39,52
+L_eyeball
+bounds:2,3065,34,32
+L_eyeblow
+bounds:946,3998,68,14
+L_eyewhite
+bounds:897,4026,60,24
+L_hair
+bounds:2823,3749,124,217
+L_hair2
+bounds:2,2715,51,348
+L_hair_horns
+bounds:854,4004,56,36
+L_hair_horns2
+bounds:1005,3988,80,62
+L_hand - 1
+bounds:731,972,154,322
+rotate:90
+L_hand - 2 - 3
+bounds:58,1437,154,322
+rotate:90
+L_hand1
+bounds:1332,3581,67,98
+L_hand2 - 1
+bounds:1399,3884,44,100
+L_hand2 - 2 - 3
+bounds:127,2627,44,100
+L_hand3 - 1
+bounds:1774,3946,75,75
+L_hand3 - 2 - 3
+bounds:1159,3668,75,75
+L_hand45 - 1
+bounds:802,3862,88,67
+L_hand45 - 2 - 3
+bounds:714,3835,88,67
+L_leg - 1
+bounds:2395,581,439,1628
+rotate:90
+L_leg - 2
+bounds:803,807,439,1628
+rotate:270
+L_leg - 3
+bounds:2396,835,439,1628
+rotate:270
+L_line - 1
+bounds:2907,553,73,438
+rotate:90
+L_line - 2
+bounds:1964,548,73,437
+offsets:0,1,73,438
+rotate:90
+L_line - 3
+bounds:225,545,71,436
+offsets:2,2,73,438
+rotate:90
+L_neck_acc - 1
+bounds:433,3729,44,34
+L_neck_acc - 2 - 3
+bounds:930,3888,44,34
+L_ribbon - 1
+bounds:220,3658,114,93
+L_ribbon - 2
+bounds:601,3811,112,93
+offsets:0,0,114,93
+L_ribbon - 3
+bounds:953,3346,112,93
+offsets:0,0,114,93
+L_shoulder_clo - 1
+bounds:2272,3645,131,156
+L_shoulder_clo - 2 - 3
+bounds:563,2270,131,156
+MU_neck_acc
+bounds:2,3557,29,33
+M_neck_acc - 1
+bounds:2,4011,35,39
+M_neck_acc - 2 - 3
+bounds:54,3637,35,38
+offsets:0,1,35,39
+M_ribbon
+bounds:43,2857,53,69
+M_shoulder_clo
+bounds:2052,3925,149,125
+MouthHit
+bounds:307,3749,45,33
+offsets:1,0,46,33
+NormalWeapon_Bow
+bounds:2,1128,306,1662
+rotate:90
+R_B_bangs
+bounds:848,3176,71,60
+R_D_eyelashes
+bounds:973,3882,51,34
+R_F_bangs
+bounds:2409,1926,152,172
+R_F_bangs_sha
+bounds:54,2728,90,98
+offsets:0,0,157,170
+R_F_hand_sleeve - 1
+bounds:736,584,295,238
+R_F_hand_sleeve - 2
+bounds:1666,1206,295,238
+R_F_hand_sleeve - 3
+bounds:1603,2083,295,238
+R_U_eyelashes
+bounds:1633,3996,106,54
+R_arm_sleeve - 1
+bounds:2932,2870,171,376
+R_arm_sleeve - 2 - 3
+bounds:2781,2655,171,376
+R_breast - 1
+bounds:2044,2578,274,329
+offsets:58,0,332,329
+R_breast - 2
+bounds:591,2441,274,329
+offsets:58,0,332,329
+R_breast - 3
+bounds:1075,3346,291,326
+offsets:41,0,332,326
+R_breast_nipple - 3
+bounds:802,3076,108,99
+R_breast_white - 3
+bounds:2,3972,11,22
+R_ear
+bounds:377,3932,24,69
+R_eyeball
+bounds:799,3843,32,32
+R_eyeblow
+bounds:909,4002,67,36
+R_eyewhite
+bounds:2,3592,58,34
+R_hair
+bounds:2,3683,141,212
+R_hair2
+bounds:1068,725,162,441
+rotate:90
+R_hair_horns
+bounds:788,4005,64,38
+R_hair_horns2
+bounds:1071,3932,84,101
+R_hand
+bounds:677,3892,401,112
+offsets:67,0,468,136
+R_hand1
+bounds:335,3714,128,89
+R_hand2 - 1
+bounds:1720,3939,96,85
+R_hand2 - 2 - 3
+bounds:1696,3965,96,85
+R_hand3
+bounds:852,2488,41,142
+R_hand45 - 1
+bounds:1497,3378,73,142
+R_hand45 - 2 - 3
+bounds:822,2711,73,142
+R_hand_sleeve - 1
+bounds:3229,3348,338,231
+R_hand_sleeve - 2
+bounds:441,872,338,231
+R_hand_sleeve - 3
+bounds:2053,3486,338,231
+R_leg - 1
+bounds:3662,1276,388,1711
+offsets:30,0,418,1711
+rotate:180
+R_leg - 2
+bounds:3403,1456,388,1711
+offsets:30,0,418,1711
+rotate:180
+R_leg - 3
+bounds:3131,1153,388,1711
+offsets:30,0,418,1711
+rotate:180
+R_line - 1
+bounds:761,1860,96,452
+rotate:90
+R_line - 2
+bounds:60,590,94,450
+offsets:2,2,96,452
+rotate:90
+R_line - 3
+bounds:2994,618,95,446
+offsets:1,6,96,452
+rotate:90
+R_neck_acc - 1
+bounds:2,3900,47,38
+R_neck_acc - 2 - 3
+bounds:224,4012,45,38
+offsets:2,0,47,38
+R_ribbon - 1
+bounds:279,3966,98,84
+R_ribbon - 2
+bounds:1407,3597,95,83
+offsets:3,1,98,84
+R_ribbon - 3
+bounds:1290,3345,97,83
+offsets:1,1,98,84
+R_shoulder_clo - 1
+bounds:3635,589,197,312
+rotate:90
+R_shoulder_clo - 2
+bounds:3381,593,197,312
+rotate:90
+R_shoulder_clo - 3
+bounds:2697,3105,197,312
+Skill_SpitSmoke
+bounds:167,3763,45,48
+offsets:0,38,49,89
+TB_hair
+bounds:1047,1020,242,106
+TF_hair
+bounds:1013,590,314,205
+Tears1 - 2 - 3
+bounds:2,3996,21,14
+Tears2 - 2 - 3
+bounds:170,4034,28,16
+body - 1 - 2
+bounds:2,654,438,472
+body - 3
+bounds:2,1564,438,472
+body_clo - 1
+bounds:2747,1169,516,1957
+offsets:8,0,524,1968
+body_clo - 2
+bounds:2379,2093,516,1957
+offsets:8,0,524,1968
+rotate:180
+body_clo - 3
+bounds:2307,1207,516,1957
+offsets:8,0,524,1968
+butt_clo
+bounds:1899,1338,124,556
+coat_L_arm - 1
+bounds:2052,3718,354,332
+coat_L_arm - 2
+bounds:555,2154,354,332
+coat_L_arm - 3
+bounds:437,1763,354,332
+coat_L_hand - 1
+bounds:2966,3547,375,503
+coat_L_hand - 2
+bounds:2754,3245,375,503
+coat_L_hand - 3
+bounds:1706,593,375,503
+rotate:90
+coat_R_arm
+bounds:389,3787,318,263
+coat_R_hand - 1
+bounds:2,1983,208,365
+coat_R_hand - 2
+bounds:2,2349,208,365
+coat_R_hand - 3
+bounds:1603,2324,208,365
+coat_R_shoulder - 1
+bounds:3110,3109,374,267
+coat_R_shoulder - 2
+bounds:401,608,374,267
+coat_R_shoulder - 3
+bounds:24,3783,374,267
+face
+bounds:1239,3667,252,286
+face_red
+bounds:1256,3965,175,85
+offsets:7,0,184,94
+mouth
+bounds:526,3778,60,28
+mouth_smoke
+bounds:473,3758,60,28
+neck - 1
+bounds:3305,3771,219,243
+neck - 2
+bounds:2812,2167,219,243
+neck - 3
+bounds:2797,2411,219,243
+nose
+bounds:125,3747,46,98
+smoke
+bounds:3327,3452,328,324

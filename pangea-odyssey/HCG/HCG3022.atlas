@@ -1,0 +1,235 @@
+HCG3022.png
+size:4096,4096
+filter:Linear,Linear
+pma:true
+scale:0.7
+B_hair
+bounds:2,995,228,433
+IN_labia_close
+bounds:1696,3057,50,239
+L_arm
+bounds:1721,1125,555,557
+rotate:90
+L_blow - 0 - 2 - 4 - 5
+bounds:787,3733,49,52
+L_blow - 1 - 3 - 6
+bounds:2,2765,53,42
+L_calf
+bounds:2692,318,818,1101
+L_chest
+bounds:3017,3297,454,516
+L_eye - 3 - 6
+bounds:697,3770,62,43
+offsets:1,8,63,70
+L_eyeball - 0 - 1 - 2 - 4
+bounds:2,3632,35,35
+L_eyelash_D - 0
+bounds:264,3778,40,34
+offsets:0,1,41,36
+L_eyelash_D - 1
+bounds:989,3612,51,39
+offsets:0,0,64,39
+L_eyelash_D - 2 - 4 - 5
+bounds:99,3781,51,31
+offsets:4,2,55,34
+L_eyelash_U - 0
+bounds:125,2147,68,47
+offsets:1,0,69,58
+L_eyelash_U - 1
+bounds:208,3779,69,34
+offsets:0,1,69,47
+L_eyelash_U - 2 - 4 - 5
+bounds:1576,3591,65,41
+offsets:1,0,66,48
+L_eyelid - 0~ - 6
+bounds:1652,3408,56,60
+L_eyewhite - 0 - 1 - 2 - 4 - 5
+bounds:2,2795,56,38
+offsets:0,0,61,39
+L_finger_2
+bounds:1986,3519,81,147
+offsets:0,0,82,153
+L_finger_3
+bounds:737,1725,119,175
+L_finger_4
+bounds:679,1251,132,160
+L_finger_5
+bounds:2,1880,97,139
+L_hair_11
+bounds:2629,3732,81,488
+rotate:90
+L_hand
+bounds:2,704,419,853
+offsets:0,0,419,864
+L_labia_close
+bounds:2949,2450,147,356
+offsets:0,0,148,356
+L_man_GG
+bounds:835,3597,498,216
+offsets:0,0,503,216
+L_man_hand
+bounds:418,886,420,477
+rotate:180
+L_man_seman
+bounds:1715,1700,116,246
+offsets:0,0,143,246
+L_nipple
+bounds:2,2849,92,162
+L_open_labia_open
+bounds:1401,496,148,369
+offsets:0,0,160,369
+L_saliva - 3
+bounds:72,3750,13,28
+offsets:0,1,13,29
+L_saliva - 5
+bounds:2,3069,19,45
+L_sweat - 3
+bounds:2,3778,15,35
+MD_open_labia_open
+bounds:2,2147,143,250
+offsets:52,0,195,250
+MT2_open_labia_open
+bounds:1320,3718,135,95
+MT_open_labia_open
+bounds:71,3776,27,37
+M_man_GG
+bounds:1647,3132,297,681
+offsets:0,0,297,684
+M_man_seman
+bounds:2,1508,187,377
+offsets:13,0,200,377
+M_saliva - 5
+bounds:19,3082,18,45
+R_blow - 0 - 2 - 4 - 5
+bounds:658,2142,144,38
+R_blow - 1 - 3 - 6
+bounds:1747,3104,143,37
+R_calf
+bounds:2,1374,748,1436
+R_chest
+bounds:752,1217,533,525
+R_eye - 3
+bounds:1525,3529,155,94
+offsets:2,18,157,112
+R_eyeball - 0
+bounds:1658,3527,55,54
+R_eyeball - 1 - 2 - 4 - 6
+bounds:2,3669,53,44
+R_eyeball - 5
+bounds:156,3780,50,33
+R_eyelash_D - 0 ~ - 6 x3
+bounds:186,1571,106,70
+R_eyelash_U - 0 ~ - 6 x3
+bounds:742,1671,140,92
+R_eyelid - 0 ~ - 6
+bounds:179,1550,126,68
+offsets:0,15,126,83
+R_eyewhite - 0 ~ - 6 x3
+bounds:654,2150,101,74
+offsets:2,0,103,74
+R_finger_2
+bounds:590,2195,113,145
+R_finger_5
+bounds:781,1121,154,137
+R_hand
+bounds:870,156,375,887
+rotate:90
+R_labia_close
+bounds:1575,2990,125,359
+R_man_GG
+bounds:2,1645,505,314
+rotate:90
+R_man_balls
+bounds:691,1898,187,258
+offsets:17,0,204,258
+R_man_hand
+bounds:2991,28,424,489
+rotate:270
+R_man_seman
+bounds:2528,2644,102,278
+offsets:40,0,142,278
+R_nipple
+bounds:1946,3667,242,146
+offsets:0,12,242,158
+R_open_labia_open
+bounds:3558,32,130,364
+R_saliva - 3
+bounds:2,3127,24,54
+R_saliva - 5
+bounds:2,3085,25,51
+R_sweat - 3
+bounds:2,3512,15,36
+T_labia_close
+bounds:2,3592,28,38
+Tongue - 0
+bounds:755,3748,88,65
+Tongue - 2
+bounds:32,1798,82,72
+Tongue - 3
+bounds:2,2994,55,58
+Tongue - 4 - 5
+bounds:1584,3339,69,88
+offsets:0,0,70,88
+U_man_body
+bounds:1666,899,2914,1349
+rotate:90
+blush - 3 - 4 - 5 - 6
+bounds:1311,3509,312,202
+body
+bounds:2567,1711,1246,1644
+face
+bounds:2498,2285,470,505
+face - 6
+bounds:3192,331,470,505
+hair_1
+bounds:875,1780,191,230
+hair_12
+bounds:2,1142,1718,2671
+offsets:23,0,1741,2671
+hair_2
+bounds:1954,42,128,293
+hair_3
+bounds:3413,3440,126,368
+hair_4
+bounds:1470,2909,188,428
+hair_5
+bounds:1133,29,407,833
+rotate:270
+hair_6
+bounds:2,87,497,402
+offsets:0,0,499,402
+hair_7
+bounds:2739,1754,461,229
+hair_8
+bounds:2593,2793,221,272
+hair_9
+bounds:1902,3365,84,281
+hair_horn
+bounds:1194,3529,127,67
+mouth - 0
+bounds:1113,3542,94,88
+mouth - 1
+bounds:1004,1744,127,66
+mouth - 2
+bounds:55,2812,97,96
+offsets:12,0,109,96
+mouth - 3
+bounds:1553,3714,85,99
+offsets:20,0,105,99
+mouth - 4 - 5 - 6
+bounds:1463,3702,95,111
+offsets:7,0,102,111
+mouth_saliva1 - 2
+bounds:17,3791,10,22
+offsets:1,0,11,22
+mouth_saliva2 - 2
+bounds:2,3544,22,46
+nose
+bounds:1054,3555,65,85
+offsets:0,16,65,101
+seman_flowing_out_in_abalone
+bounds:1520,2550,128,372
+thighs
+bounds:209,254,2482,955
+tongue - 6
+bounds:2,3714,70,99
